@@ -1,4 +1,4 @@
-obj_recognition:
+cluster_segmentation:
     #list of controllers
     joint_state_controller:
       type: joint_state_controller/JointStateController
